@@ -3,3 +3,4 @@ tabulate
 tensorflow
 scikit-learn
 numpy
+fairlearn
