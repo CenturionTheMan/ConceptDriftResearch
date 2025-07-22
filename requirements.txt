@@ -7,3 +7,6 @@ fairlearn
 opencv-python
 seaborn
 matplotlib
+scipy
+scikit-posthocs 
+pingouin
