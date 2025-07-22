@@ -1,6 +1,0 @@
-rep,model_name,feature_split_col,train_size,train_ratio_detail,test_size,test_ratio_detail,accuracy,f1_score,eo_diff,train_ratio_rel,test_ratio_rel,train_ratio,test_ratio
-0,mobile net 2,sex,1000,male:0.1/female:0.9,100,male:0.1/female:0.9,0.56,0.551203590371277,0.4222222222222222,female:0.9000/male:0.1000,female:0.9000/male:0.1000,1/9,1/9
-0,mobile net 2,sex,1000,male:0.1/female:0.9,100,male:0.3/female:0.7,0.57,0.5664885573142455,0.3619047619047619,female:0.9000/male:0.1000,female:0.7000/male:0.3000,1/9,3/7
-0,mobile net 2,sex,1000,male:0.1/female:0.9,100,male:0.5/female:0.5,0.58,0.579326923076923,0.36,female:0.9000/male:0.1000,male:0.5000/female:0.5000,1/9,5/5
-0,mobile net 2,sex,1000,male:0.1/female:0.9,100,male:0.7/female:0.3,0.61,0.6090225563909774,0.32380952380952377,female:0.9000/male:0.1000,male:0.7000/female:0.3000,1/9,7/3
-0,mobile net 2,sex,1000,male:0.1/female:0.9,100,male:0.9/female:0.1,0.59,0.5896306676008407,0.46666666666666673,female:0.9000/male:0.1000,male:0.9000/female:0.1000,1/9,9/1
