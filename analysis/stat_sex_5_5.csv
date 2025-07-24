@@ -1,0 +1,10 @@
+TestRatio,InceptionV3Normality,XceptionNormality,VarianceEquality,ANOVAResult,H0Result
+1/9,Shapiro: p=0.233,Shapiro: p=0.106,Levene (mean):   p=0.269,ANOVA: 7.97E-01,H0 accepted
+2/8,Shapiro: p=0.409,Shapiro: p=0.022,Levene (median): p=0.272,Kruskal-Wallis: 8.27E-01,H0 accepted
+3/7,Shapiro: p=0.740,Shapiro: p=0.017,Levene (median): p=0.272,Kruskal-Wallis: 9.57E-01,H0 accepted
+4/6,Shapiro: p=0.885,Shapiro: p=0.028,Levene (median): p=0.272,Kruskal-Wallis: 7.44E-01,H0 accepted
+5/5,Shapiro: p=0.201,Shapiro: p=0.035,Levene (median): p=0.272,Kruskal-Wallis: 4.14E-01,H0 accepted
+6/4,Shapiro: p=0.164,Shapiro: p=0.077,Levene (mean):   p=0.269,ANOVA: 9.07E-01,H0 accepted
+7/3,Shapiro: p=0.009,Shapiro: p=0.135,Levene (median): p=0.272,Kruskal-Wallis: 7.44E-01,H0 accepted
+8/2,Shapiro: p=0.049,Shapiro: p=0.510,Levene (median): p=0.272,Kruskal-Wallis: 4.80E-01,H0 accepted
+9/1,Shapiro: p=0.090,Shapiro: p=0.541,Levene (mean):   p=0.269,ANOVA: 7.11E-01,H0 accepted
