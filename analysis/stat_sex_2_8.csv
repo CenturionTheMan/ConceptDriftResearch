@@ -1,10 +1,10 @@
-TestRatio,InceptionV3Normality,XceptionNormality,VarianceEquality,ANOVAResult,H0Result
-1/9,Shapiro: p=0.040,Shapiro: p=0.972,Levene (median): p=0.107,Kruskal-Wallis: 3.79E-01,H0 accepted
-2/8,Shapiro: p=0.032,Shapiro: p=0.847,Levene (median): p=0.107,Kruskal-Wallis: 4.64E-01,H0 accepted
-3/7,Shapiro: p=0.023,Shapiro: p=0.958,Levene (median): p=0.107,Kruskal-Wallis: 6.96E-01,H0 accepted
-4/6,Shapiro: p=0.034,Shapiro: p=0.971,Levene (median): p=0.107,Kruskal-Wallis: 9.22E-01,H0 accepted
-5/5,Shapiro: p=0.024,Shapiro: p=0.716,Levene (median): p=0.107,Kruskal-Wallis: 9.22E-01,H0 accepted
-6/4,Shapiro: p=0.014,Shapiro: p=0.780,Levene (median): p=0.107,Kruskal-Wallis: 8.45E-01,H0 accepted
-7/3,Shapiro: p=0.016,Shapiro: p=0.850,Levene (median): p=0.107,Kruskal-Wallis: 6.96E-01,H0 accepted
-8/2,Shapiro: p=0.031,Shapiro: p=0.782,Levene (median): p=0.107,Kruskal-Wallis: 6.25E-01,H0 accepted
-9/1,Shapiro: p=0.042,Shapiro: p=0.815,Levene (median): p=0.107,Kruskal-Wallis: 6.96E-01,H0 accepted
+TestRatio,EfficientNetV2SNormality,InceptionV3Normality,XceptionNormality,VarianceEquality,ANOVAResult,H0Result
+1/9,Shapiro: p=0.448,Shapiro: p=0.040,Shapiro: p=0.972,Levene (median): p=0.021,Kruskal-Wallis: 2.65E-02,H0 rejected
+2/8,Shapiro: p=0.330,Shapiro: p=0.032,Shapiro: p=0.847,Levene (median): p=0.021,Kruskal-Wallis: 3.13E-02,H0 rejected
+3/7,Shapiro: p=0.538,Shapiro: p=0.023,Shapiro: p=0.958,Levene (median): p=0.021,Kruskal-Wallis: 2.44E-02,H0 rejected
+4/6,Shapiro: p=0.322,Shapiro: p=0.034,Shapiro: p=0.971,Levene (median): p=0.021,Kruskal-Wallis: 2.56E-02,H0 rejected
+5/5,Shapiro: p=0.331,Shapiro: p=0.024,Shapiro: p=0.716,Levene (median): p=0.021,Kruskal-Wallis: 2.06E-02,H0 rejected
+6/4,Shapiro: p=0.555,Shapiro: p=0.014,Shapiro: p=0.780,Levene (median): p=0.021,Kruskal-Wallis: 2.77E-02,H0 rejected
+7/3,Shapiro: p=0.788,Shapiro: p=0.016,Shapiro: p=0.850,Levene (median): p=0.021,Kruskal-Wallis: 2.16E-02,H0 rejected
+8/2,Shapiro: p=0.511,Shapiro: p=0.031,Shapiro: p=0.782,Levene (median): p=0.021,Kruskal-Wallis: 1.53E-02,H0 rejected
+9/1,Shapiro: p=0.275,Shapiro: p=0.042,Shapiro: p=0.815,Levene (median): p=0.021,Kruskal-Wallis: 3.01E-02,H0 rejected

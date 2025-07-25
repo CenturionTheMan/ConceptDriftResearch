@@ -8,5 +8,5 @@ opencv-python
 seaborn
 matplotlib
 scipy
-scikit-posthocs 
 pingouin
+scikit-posthocs
